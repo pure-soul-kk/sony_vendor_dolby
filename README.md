@@ -1,7 +1,7 @@
 ## Sony Dolby Implementation 
 
 
-##To adapt for your device
+To adapt for your device
 
 1-Add this in your device.mk or common.mk:
 
@@ -14,4 +14,9 @@ $(call inherit-product, vendor/dolby/config.mk)
 
 ```
 https://github.com/omnitrix21/device_xiaomi_sm6150-common/commit/6ea7dbe5eba4f6c245d674574cc3521812c9ea22
+```
+
+3- clone this to vendor/dolby
+```
+git clone https://github.com/omnitrix21/sony_vendor_dolby/tree/13 vendor/dolby
 ```
