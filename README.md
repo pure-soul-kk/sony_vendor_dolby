@@ -18,5 +18,5 @@ https://github.com/omnitrix21/device_xiaomi_sm6150-common/commit/6ea7dbe5eba4f6c
 
 3- clone this to vendor/dolby
 ```
-git clone https://github.com/omnitrix21/sony_vendor_dolby/tree/13 vendor/dolby
+git clone https://github.com/pure-soul-kk/sony_vendor_dolby vendor/dolby
 ```
